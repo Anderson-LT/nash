@@ -1,0 +1,21 @@
+Nightly Shell (Versión 0.0.1 - Preview)
+
+Primera versión publica...
+
+NASH Es un proyecto escrito en el lenguaje de programación Python.
+
+La inspiración para crear este proyecto fueron las diferencias entre la
+consola de Linux y la de Windows; por eso este proyecto busca crear una
+consola ó shell multiplataforma, con un sistema de scripts que no necesiten
+ser modificados según la plataforma, sino según la versión del shell.
+
+Además debe ser fácil de usar para cualquier persona...
+
+NOTA: NASH Usa un sistema de versiones tipo semántico.
+
+CARACTERISTICAS:
+
+        • Comando "mynash", permite grabar secuencias de comandos y crear
+          accesos directos a directorios.
+          
+################################################################################
